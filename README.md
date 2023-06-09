@@ -6,7 +6,7 @@ Data Analyst in Gamedev
 -----------------------
 
 * 🌍  I'm based in Minsk, Belarus
-* ✉️  You can contact me at [chernjaevaolga@gmail.com](mailto:chernjaevaolga@gmail.com)
+
 
 ### Skills
 
