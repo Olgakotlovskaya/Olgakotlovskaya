@@ -6,7 +6,7 @@ Data Analyst in Gamedev
 -----------------------
 
 * 🌍  I'm based in Minsk, Belarus
-* 
+
 
 
 ### Skills
